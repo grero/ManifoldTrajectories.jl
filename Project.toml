@@ -1,0 +1,7 @@
+name = "ManifoldTrajectories"
+uuid = "8b5851b5-e5da-46f7-8abb-37741463b526"
+authors = ["Roger Herikstad <roger.herikstad@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+ParallelTransportUnfolding = "268555e1-3ef2-4898-9b9d-141aa6e53af3"
